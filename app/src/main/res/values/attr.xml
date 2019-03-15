@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="my_xml_test">
+        <attr name="name" format="string"></attr>
+        <attr name="age" format="integer"></attr>
+        <attr name="sex" format="boolean"></attr>
+    </declare-styleable>
+</resources>
